@@ -1,0 +1,4 @@
+objects/*
+out/*
+*.pdb
+dump.txt
