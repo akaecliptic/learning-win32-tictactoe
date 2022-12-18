@@ -1,10 +1,11 @@
 #ifndef LOGIC_ONCE
 #define LOGIC_ONCE
-#endif
 
 #define INVALID_MOVES -3
 
 #include <cstdint>
+
+#endif
 
 namespace Logic
 {

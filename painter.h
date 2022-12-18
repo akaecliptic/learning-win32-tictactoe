@@ -1,12 +1,13 @@
 #ifndef XO_ONCE
 #define XO_ONCE
-#endif
 
 #include <windows.h>
 #include <d2d1.h>
 #pragma comment(lib, "d2d1")
 
 #include "logic.h"
+
+#endif
 
 template<class T> 
 void SafeRelease(T**);

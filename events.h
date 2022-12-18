@@ -1,8 +1,9 @@
 #ifndef EVENTS_ONCE
 #define EVENTS_ONCE
-#endif
 
 #include <windows.h>
+
+#endif
 
 namespace Events
 {

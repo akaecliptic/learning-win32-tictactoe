@@ -1,9 +1,10 @@
 #ifndef INPUT_ONCE
 #define INPUT_ONCE
-#endif
 
 #include <windows.h>
 #include <windowsx.h>
+
+#endif
 
 namespace Input
 {

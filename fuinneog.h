@@ -1,11 +1,12 @@
 #ifndef FRAMA_ONCE
 #define FRAMA_ONCE
-#endif
 
 #include <windows.h>
 
 #include "input.h"
 #include "painter.h"
+
+#endif
 
 namespace Frama
 {
