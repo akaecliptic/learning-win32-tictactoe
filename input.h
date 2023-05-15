@@ -4,8 +4,6 @@
 #include <windows.h>
 #include <windowsx.h>
 
-#endif
-
 namespace Input
 {
 
@@ -39,3 +37,5 @@ class Manager
 };
 
 }
+
+#endif

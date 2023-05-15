@@ -5,8 +5,6 @@
 
 #include <cstdint>
 
-#endif
-
 namespace Logic
 {
 
@@ -21,3 +19,5 @@ bool HasValidMoves();
 void Restart();
 
 }
+
+#endif

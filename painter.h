@@ -7,8 +7,6 @@
 
 #include "logic.h"
 
-#endif
-
 template<class T> 
 void SafeRelease(T**);
 
@@ -83,3 +81,5 @@ class XO
 };
 
 }
+
+#endif

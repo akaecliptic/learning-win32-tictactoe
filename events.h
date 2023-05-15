@@ -3,8 +3,6 @@
 
 #include <windows.h>
 
-#endif
-
 namespace Events
 {
 
@@ -31,3 +29,5 @@ class SeekDispatcher : public Dispatcher
 };
 
 }
+
+#endif

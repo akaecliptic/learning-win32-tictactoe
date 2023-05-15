@@ -6,8 +6,6 @@
 #include "input.h"
 #include "painter.h"
 
-#endif
-
 namespace Frama
 {
 
@@ -48,3 +46,5 @@ class Fuinneog
 };
 
 }
+
+#endif

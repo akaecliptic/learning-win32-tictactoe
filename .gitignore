@@ -2,3 +2,4 @@ objects/*
 out/*
 *.pdb
 dump.txt
+app.exe
